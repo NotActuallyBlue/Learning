@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53930295-2a08-4cca-9fae-fa7948637d7e" name="Changes" comment="Updated the Title of the Lorem Ipsum.html" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NotActuallyBlue&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NotActuallyBlue/Learning.git&quot;,
+    &quot;accountId&quot;: &quot;f543e9c8-4dae-4656-89aa-41c7b7f56b13&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2w46VQiLAmZqZcu8cm2qXlExHfO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.Lorem Ipsum.html.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53930295-2a08-4cca-9fae-fa7948637d7e" name="Changes" comment="" />
+      <created>1745288521210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745288521210</updated>
+      <workItem from="1745288522228" duration="13000" />
+      <workItem from="1745288538495" duration="11000" />
+      <workItem from="1745288741417" duration="76000" />
+      <workItem from="1745461899394" duration="5000" />
+      <workItem from="1745461917910" duration="2000" />
+      <workItem from="1745462557946" duration="3000" />
+      <workItem from="1745462568130" duration="213000" />
+      <workItem from="1745700392226" duration="78000" />
+      <workItem from="1745700475544" duration="90000" />
+      <workItem from="1745700570451" duration="485000" />
+      <workItem from="1745716830944" duration="1540000" />
+    </task>
+    <task id="LOCAL-00001" summary="Wrote my first list in HTML. Nothing special.">
+      <option name="closed" value="true" />
+      <created>1745717865485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745717865485</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated the Title of the Lorem Ipsum.html">
+      <option name="closed" value="true" />
+      <created>1745718270285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745718270285</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Wrote my first list in HTML. Nothing special." />
+    <MESSAGE value="Updated the Title of the Lorem Ipsum.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the Title of the Lorem Ipsum.html" />
+  </component>
+</project>
