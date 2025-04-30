@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53930295-2a08-4cca-9fae-fa7948637d7e" name="Changes" comment="Updated the Title of the Lorem Ipsum.html">
+    <list default="true" id="53930295-2a08-4cca-9fae-fa7948637d7e" name="Changes" comment="Added a new webpage for links and images.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing HTML Doc's/Lorem Ipsum.html" beforeDir="false" afterPath="$PROJECT_DIR$/Testing HTML Doc's/Lorem Ipsum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing HTML Doc's/linksandimages.html" beforeDir="false" afterPath="$PROJECT_DIR$/Testing HTML Doc's/linksandimages.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ethanc/WebstormProjects/Learning&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -87,6 +88,13 @@
       <workItem from="1745722127329" duration="10000" />
       <workItem from="1745806505719" duration="42000" />
       <workItem from="1745806691157" duration="127000" />
+      <workItem from="1745806841862" duration="175000" />
+      <workItem from="1745807098997" duration="60000" />
+      <workItem from="1745807181546" duration="129000" />
+      <workItem from="1745807333806" duration="18000" />
+      <workItem from="1745807356926" duration="19000" />
+      <workItem from="1746054960498" duration="537000" />
+      <workItem from="1746055498016" duration="1641000" />
     </task>
     <task id="LOCAL-00001" summary="Wrote my first list in HTML. Nothing special.">
       <option name="closed" value="true" />
@@ -120,7 +128,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745718453108</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added a new webpage for links and images.">
+      <option name="closed" value="true" />
+      <created>1745806980446</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745806980446</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added a new webpage for links and images.">
+      <option name="closed" value="true" />
+      <created>1745807151253</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745807151253</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +153,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Wrote my first list in HTML. Nothing special." />
     <MESSAGE value="Updated the Title of the Lorem Ipsum.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the Title of the Lorem Ipsum.html" />
+    <MESSAGE value="Added a new webpage for links and images." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a new webpage for links and images." />
   </component>
 </project>
