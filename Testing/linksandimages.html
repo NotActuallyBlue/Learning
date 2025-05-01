@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Links & Images</title>
+</head>
+<body>
+    <h1>Links & Images</h1>
+
+    <! -- The href means Hypertext Reference. It is an attribute that is used for linking other HTML documents. The two examples below are absolute links. -->
+
+        <p>This is a link that opens in the same page - <a href="https://www.theodinproject.com/about">About The Odin Project</a></p>
+
+    <! -- This allows the same link to be opened in a NEW tab whilst hiding information about where the user came from.
+            It also doesn't allow the new page to interact with the prior page.
+                The target="blank" is what opens the link in a new tab whereas the rel="noopener noreferrer" doesn't allow the new page to interact with the prior page. -->
+
+        <p>This is a "secure" link that opens a new tab - <a href="https://www.theodinproject.com/about" target="_blank" rel="noopener noreferrer">About The Odin Project</a></p>
+
+        <p>This is the other type of link, where it links to pages within the root folder of the site/project. <a href="Lorem%20Ipsum.html">Click Here</a></p>
+
+        <p>This is the same as the above link, where it links to pages within the root folder of the site/project BUT it has the ability to move around the project without being in the same folder. The .. allows the search to go up 1 level in the directory.  <a href="../Index/index.html">Click Here</a></p>
+
+        <p>This plants the image directly into the webpage.
+            <img src="../Images/wow-logo-default.png" alt="The Greatest MMO to ever be created! World of Warcraft!" height="250" width="250"></p>
+
+    <! -- You can follow the above directions to link an image to a new tab with attributes.
+
+</body>
+</html>

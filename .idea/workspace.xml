@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53930295-2a08-4cca-9fae-fa7948637d7e" name="Changes" comment="Added a new webpage for links and images.">
+    <list default="true" id="53930295-2a08-4cca-9fae-fa7948637d7e" name="Changes" comment="Changed the file structure and aded info about links!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing HTML Doc's/linksandimages.html" beforeDir="false" afterPath="$PROJECT_DIR$/Testing HTML Doc's/linksandimages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing HTML Doc's/Lorem Ipsum.html" beforeDir="false" afterPath="$PROJECT_DIR$/Testing/Lorem Ipsum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing HTML Doc's/linksandimages.html" beforeDir="false" afterPath="$PROJECT_DIR$/Testing/linksandimages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +59,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/index" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Testing HTML Doc's" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,7 +105,7 @@
       <workItem from="1745807333806" duration="18000" />
       <workItem from="1745807356926" duration="19000" />
       <workItem from="1746054960498" duration="537000" />
-      <workItem from="1746055498016" duration="1641000" />
+      <workItem from="1746055498016" duration="5615000" />
     </task>
     <task id="LOCAL-00001" summary="Wrote my first list in HTML. Nothing special.">
       <option name="closed" value="true" />
@@ -144,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745807151253</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Changed the file structure and aded info about links!">
+      <option name="closed" value="true" />
+      <created>1746057588344</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746057588344</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +173,7 @@
     <MESSAGE value="Wrote my first list in HTML. Nothing special." />
     <MESSAGE value="Updated the Title of the Lorem Ipsum.html" />
     <MESSAGE value="Added a new webpage for links and images." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a new webpage for links and images." />
+    <MESSAGE value="Changed the file structure and aded info about links!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed the file structure and aded info about links!" />
   </component>
 </project>
