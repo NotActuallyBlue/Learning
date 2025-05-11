@@ -1,3 +1,11 @@
+/* <--- this is the opening of a comment
+
+selector {
+property: value;
+}
+
+this is the closing of a comment ---> */
+
 body {
     background-color: #fff2dd;
 }
