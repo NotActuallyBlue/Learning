@@ -6,39 +6,3 @@ property: value;
 
 this is the closing of a comment ---> */
 
-body {
-    background-color: #fff2dd;
-}
-
-h1 {
-    color: #ff4c4c;
-    font-size: 50px;
-    text-align: center;
-}
-
-p {
-    color: #ff4c4c;
-    font-size: 30px;
-    text-align: center;
-}
-
-#wow-image {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    height: 50%;
-}
-
-.alert-text {
-    color: #4dbdce;
-    font-size: 75px;
-    text-align: center;
-}
-
-.intro {
-    text-align: center;
-    font-size: 90px;
-    text-align: center;
-    font-family: Comfortaa;
-}
