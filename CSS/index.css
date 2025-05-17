@@ -1,3 +1,5 @@
+/* By using "body", you can adjust EVERYTHING on the page that is visible. Changes made to body will be overwritten using special selectors with priority, such as classes or id's. */
+
 body {
     background-color: tan;
 }
